@@ -1,0 +1,13 @@
+\nobreakspace {}\hfill Page\par 
+\contentsline {part}{LIST OF TABLES}{v}{Doc-Start}
+\contentsline {part}{LIST OF FIGURES}{vi}{Doc-Start}
+CHAPTER \par 
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}RELATED WORK}{2}{chapter.2}
+\contentsline {chapter}{\numberline {3}PROPOSED APPROACH}{3}{chapter.3}
+\contentsline {chapter}{\numberline {4}EXPERIMENTAL EVALUATION}{4}{chapter.4}
+\contentsline {chapter}{\numberline {5}CONCLUSION}{5}{chapter.5}
+\contentsline {part}{REFERENCES}{6}{chapter.5}
+APPENDIX \par 
+\contentsline {chapter}{\numberline {A}LIST OF NOTATIONS AND ABBREVIATIONS}{6}{appendix.A}
+\contentsline {chapter}{\numberline {B}APPENDIX B}{7}{appendix.B}
