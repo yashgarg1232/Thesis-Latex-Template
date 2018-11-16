@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  15 OCT 2018 14:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  16 NOV 2018 10:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -882,11 +882,16 @@ Chapter 5.
 
 
 
-] (./thesis.bbl)
+] (./thesis.bbl
+
+Package natbib Warning: Empty `thebibliography' environment on input line 8.
+
+) [6
+
+]
 Appendix A.
 No file thesis.nls.
-[6
-
+[7
 
 
 ]
@@ -894,7 +899,7 @@ No file thesis.nls.
 
  (./appendix_B.tex
 Appendix B.
-) [7
+) [8
 
 
 ]
@@ -909,8 +914,15 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 148.
 (./appendix_B.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 148.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 148.
-Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 33F03FE3D63C78CC2866688930C85475;577.
+
+
+Package rerunfilecheck Warning: File `thesis.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `thesis.out':
+(rerunfilecheck)             Before: 61700F355166E23B56B4CB402E3293EE;521
+(rerunfilecheck)             After:  BFB3BD06AB21DE76253964738FBB0C4A;580.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 148.
  )
 (\end occurred inside a group at level 1)
@@ -918,10 +930,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 148.
 ### simple group (level 1) entered at line 121 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 11235 strings out of 492649
- 164473 string characters out of 6129622
- 383428 words of memory out of 5000000
- 14830 multiletter control sequences out of 15000+600000
+ 11237 strings out of 492649
+ 164483 string characters out of 6129622
+ 383427 words of memory out of 5000000
+ 14831 multiletter control sequences out of 15000+600000
  10261 words of font info for 40 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  37i,11n,43p,372b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -931,10 +943,10 @@ cm/cmbxti10.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmr12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/c
 m/cmti12.pfb></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmtt12.pfb>
-Output written on thesis.pdf (14 pages, 62794 bytes).
+Output written on thesis.pdf (15 pages, 63107 bytes).
 PDF statistics:
  140 PDF objects out of 1000 (max. 8388607)
- 117 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 compressed objects within 2 object streams
+ 22 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 

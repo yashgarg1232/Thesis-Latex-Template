@@ -9,5 +9,5 @@ CHAPTER \par
 \contentsline {chapter}{\numberline {5}CONCLUSION}{5}{chapter.5}
 \contentsline {part}{REFERENCES}{6}{chapter.5}
 APPENDIX \par 
-\contentsline {chapter}{\numberline {A}LIST OF NOTATIONS AND ABBREVIATIONS}{6}{appendix.A}
-\contentsline {chapter}{\numberline {B}APPENDIX B}{7}{appendix.B}
+\contentsline {chapter}{\numberline {A}LIST OF NOTATIONS AND ABBREVIATIONS}{7}{appendix.A}
+\contentsline {chapter}{\numberline {B}Appendix Name}{8}{appendix.B}
